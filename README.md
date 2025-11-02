@@ -14,7 +14,7 @@ This project demonstrates:
 ## 🛠 Setup
 
 For a step-by-step guide to set up **freeglut** in Code::Blocks, watch this video:  
-https://youtu.be/7rLo69vCooU
+<a href="https://youtu.be/7rLo69vCooU" target="_blank">📺 Watch the setup video</a>
 
 > 💡 **Note:** If you have already installed FreeGLUT, you do **not** need to follow the setup video.
 

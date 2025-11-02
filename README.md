@@ -16,13 +16,28 @@ This project demonstrates:
 For a step-by-step guide to set up **freeglut** in Code::Blocks, watch this video:  
 https://youtu.be/7rLo69vCooU
 
+> 💡 **Note:** If you have already installed FreeGLUT, you do **not** need to follow the setup video.
+
 ---
 
 ## ▶️ How to Run
 
-1. Open `Dynamic_3D_Solar_System_Simulation.cbp` in Code::Blocks.
-2. Press **F9** to Build & Run.
-3. Ensure `freeglut.dll` is in the same folder as your compiled `.exe`.
+1. Open **Code::Blocks**.
+
+2. Go to **File → New → Project → FreeGLUT Project**.
+
+3. Follow the wizard:
+   - Give your project a **title**.
+   - Choose a **folder** for your project.
+   - Keep clicking **Next** until **Finish**.
+
+4. In the left panel, under **Sources**, click **main.cpp**.
+
+5. Open `Dynamic_3D_Solar_System_Simulation.cbp` (from the GitHub ZIP) in a text editor.
+
+6. **Copy all the code** and **paste it into `main.cpp`** in your new Code::Blocks project.
+
+7. Press **F9** (or click **Build & Run**) to compile and run the simulation.
 
 ---
 

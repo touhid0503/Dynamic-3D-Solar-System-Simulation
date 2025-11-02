@@ -1,0 +1,11 @@
+# Ignore compiled files and executable output
+bin/
+obj/
+
+# Ignore Code::Blocks internal files
+*.depend
+*.layout
+
+# Ignore temporary build outputs
+*.o
+*.exe

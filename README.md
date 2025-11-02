@@ -57,4 +57,4 @@ For a step-by-step guide to set up **freeglut** in Code::Blocks, watch this vide
 
 ## 👤 Author
 **Touhid**  
-GitHub: https://github.com/touhid0503
+GitHub: [https://github.com/touhid0503](https://github.com/touhid0503)
